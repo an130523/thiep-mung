@@ -1,8 +1,8 @@
-const nameGirl = 'Gửi em';
+const nameGirl = 'Gửi bạn';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'Chúc Mừng noel nhé';
-const titleCard = 'Tặng người ấy';
-const contentCard = 'Chúc em luôn tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau nhé!';
+const titleCard = 'Vũ Cẩm Ly';
+const contentCard = 'chúc mày noel vui vẻ nhé và ngày càng xinh nhé!';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
